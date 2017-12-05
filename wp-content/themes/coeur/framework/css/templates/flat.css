@@ -1,0 +1,181 @@
+/* Headings */
+
+h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {margin-bottom: 15px; }
+
+pre {border: 0; }
+
+/* Header */
+
+.blog-title {margin-top: 0; }
+
+.blog-title a {color: #FFF; font-weight: 300; }
+
+.site-description {font-weight: 300; margin-top: 15px; margin-bottom: 44px; }
+
+.site-description::before, .site-description::after {content: none; display: none; }
+
+/* Forms */
+
+.search-field {border-radius: 3px; border: 0; transition: none; }
+
+.form-control {max-width: 100%; border: 0; border-radius: 4px; box-shadow: none; transition: border-color 0.15s ease-in-out 0s, box-shadow 0.15s ease-in-out 0s; }
+
+/* Navbar */
+
+.navbar {min-height: 60px; } 
+
+.navbar-default {border-width: 0 0; }
+
+.navbar-nav > li, .navbar-nav > li:last-child {border-left: 0; border-right: 0; }
+
+.navbar-nav > li > a {padding-top: 20px; padding-bottom: 20px; }
+
+.navbar-default .navbar-toggle .icon-bar {background-color: #FFF; }
+
+.navbar-toggle {padding: 14px 10px; }
+
+.navbar-default .navbar-toggle:hover, .navbar-default .navbar-toggle:focus {background-color: transparent; }
+
+.navbar-default .navbar-collapse, .navbar-default .navbar-form {border-top: 0; }
+
+.navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:hover, .navbar-default .navbar-nav > .active > a:focus, .navbar-default .navbar-nav > .open > a, .navbar-default .navbar-nav > .open > a:hover, .navbar-default .navbar-nav > .open > a:focus, .dropdown-menu > .active > a, .dropdown-menu > .active > a:hover, .dropdown-menu > .active > a:focus {background: rgba(0, 0, 0, 0.05); }
+
+.navbar-nav .open .dropdown-menu {border-bottom: 0; }
+
+.dropdown-menu {background: #333; border-width: 0 0 0; border-style: none; }
+
+.dropdown-menu > li > a {border-bottom: 0; color: #FFF; }
+
+.dropdown-menu > li > a:hover, .dropdown-menu > li > a:focus {color: #FFF; background: rgba(255, 255, 255, 0.1); }
+
+.dropdown-menu > .active > a {border-left: 3px solid; }
+
+/* Mobile Navigation */
+
+.mobile-search-icon {color: #FFF; margin-top: 19px; margin-bottom: 19px; }
+
+/* Navigation */
+
+.pagination > li > a, .pagination > li > span {padding: 12px 18px; color: #192128; background-color: #FFF; border: 0; border-radius: 3px; margin-left: -1px; margin-right: 15px; }
+
+.current {color: #FFF !important; background: #192128 !important; }
+
+/* titles */
+
+.h-header {margin: 0 0 15px; text-align: left; }
+
+.h-header::before {content: none; display: none; width: inherit; margin: 0 0; border-top: 0; padding-bottom: 0; }
+
+.h-header::after {content: none; display: none; width: inherit; border-bottom: 0; padding-top: 0; margin: 0 0; }
+
+/* Content */
+
+article.page {border: 0; }
+
+.post, article {margin-bottom: 50px; background: #FFF; padding: 15px; border: 0; border-radius: 3px; }
+
+.blog-post-meta {margin-bottom: 15px; padding-bottom: 0; border-bottom: 0; font-style: normal; color: #999; }
+
+.blog-post-meta a {color: #999 !important; }
+
+.post-tags, .post-tags a {color: #999; border-top: 0; margin-top: 0; }
+
+figcaption.wp-caption-text {margin: 15px 0px; }
+
+.wp-caption {background: #F9F9F9 none repeat scroll 0% 0%; max-width: 100%; text-align: center; padding: 10px 6px 5px; border: 0; }
+
+.search-box {background: rgba(0, 0, 0, 0.05); border-width: 0 0 0 0; padding: 13px 10px 12px 10px; margin-left: 50px; }
+
+.search-box .search-field {background: transparent; border-radius: 0; border: 0; color: #FFF; }
+
+.notfound .search-field {background: #F5F5F5; }
+
+.bio {text-align: left; }
+
+.author-name i {display: inline-block; }
+/* Comments */
+.comment-toggle {color: #000; font-weight: 300; }
+
+.comment-container {border: 0; border-radius: 3px; }
+
+#comments {border-top: 0; }
+
+#respond {background: #F9F9F9; border-top: 0; }
+
+/* Footer */
+
+.footer-top {text-align: left; }
+
+.md-footer-cl {border-left: 0; border-right: 0; }
+
+.back-to-top {display: none; }
+
+.footer-top {background: #192128; border-top: 0; color: #424B53; }
+
+.footer-top .widget-title {color: #BABCBE; font-weight: 200; margin-bottom: 20px; }
+
+.footer-top .widget a, .footer-top .widget span {color: #424B53; }
+
+.blog-footer-widgets {background: #141B22; border-top: 0; }
+
+.blog-footer p {margin-bottom: 0; }
+
+.site-credits a {color: #999; }
+
+/* Table */
+
+table {border: 0; }
+
+tr {border-bottom: 1px solid #ECECEC; }
+
+th {border-bottom: 0; border-right: 0; }
+
+td {border-bottom: 0; border-right: 0; }
+
+/* WooCommerce */
+
+li.product {border: 0; border-radius: 3px; }
+
+.woocommerce ul.products li.product .button {border-top: 2px solid #F5F5F5; background: #FFF; }
+
+.product .summary {border: 0; border-radius: 3px; }
+
+.woocommerce div.product .woocommerce-tabs ul.tabs {background: #FFF; border-top-right-radius: 3px; border-top-left-radius: 3px; border-width: 0 0 1px 0; }
+
+.woocommerce div.product .woocommerce-tabs .panel {border-bottom-right-radius: 3px; border-bottom-left-radius: 3px; border-width: 0 0 0 0; }
+
+.cart .form-control, .cartTotals .form-control {background: #F5F5F5; }
+
+.woocommerce .quantity .qty {background: #F5F5F5; border-radius: 3px; border: 0; }
+
+.woocommerce form .form-row label {display: none; }
+
+.cart, .cartTotals {border: 0; }
+
+.cartFooter {background: #FFF; border-bottom-right-radius: 3px; border-bottom-left-radius: 3px; border-width: 2px 0 0 0; border-color: #F5F5F5; }
+
+.cartBody, .shippingCalculator {background: #FFF; border-top-right-radius: 3px; border-top-left-radius: 3px; border-width: 0 0 2px 0; border-color: #F5F5F5; }
+
+.nav-tabs {background: #FFF; border-top-right-radius: 3px; border-top-left-radius: 3px; border-width: 0 0 1px 0; }
+
+.tab-content {border-bottom-right-radius: 3px; border-bottom-left-radius: 3px; border: 0; }
+
+.accountShortcuts {top: 60px; }
+
+.woocommerce .woocommerce-error, .woocommerce .woocommerce-info, .woocommerce .woocommerce-message {border-radius: 3px; }
+
+.lightTable tr {border-bottom: 2px solid #F5F5F5; }
+
+/* Responsive */ 
+
+@media (max-width: 767px) {
+    .nav > li > a {border-bottom: 0; } 
+
+    #mobile-navbar-collapse {padding: 0 0 0 0; }
+
+    .navbar-default .navbar-nav > li > a {padding: 20px 30px; }
+
+    .navbar-default .navbar-nav .open .dropdown-menu > li > a {color: #999; padding: 12px 0 12px 40px; }
+
+    .dropdown-menu > .active > a, .dropdown-menu > .active > a:hover, .dropdown-menu > .active > a:focus {color: #999 !important; background: transparent !important; }
+}

@@ -1,0 +1,370 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: TC E-Commerce Shop\n"
+"POT-Creation-Date: 2016-02-11 19:00+0530\n"
+"PO-Revision-Date: 2016-02-11 19:00+0530\n"
+"Last-Translator: \n"
+"Language-Team:ThemesCaliber <support@themescaliber.com>\n"
+"Language: English\n"
+"MIME-Version: 1.2.4\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+
+#: 404.php:14
+msgid "404 Not Found"
+msgstr ""
+
+#: 404.php:15
+msgid "Looks like you have taken a wrong turn"
+msgstr ""
+
+#: 404.php:16
+#: no-results.php:22
+msgid "Don\'t worry &hellip it happens to the best of us."
+msgstr ""
+
+#: 404.php:18
+#: no-results.php:24
+msgid "Back to Home Page"
+msgstr ""
+
+#. translators: %s: post title
+#: comments.php:22
+msgctxt "comments title"
+msgid "One thought on &ldquo;%s&rdquo;"
+msgstr ""
+
+#. translators: 1: number of comments, 2: post title
+#: comments.php:27
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:55
+msgid "'Comments are closed."
+msgstr ""
+
+#: footer.php:31
+msgid "Professional WordPress Themes By"
+msgstr ""
+
+#: functions.php:60
+msgid "Primary Menu"
+msgstr ""
+
+#: functions.php:78
+msgid "Blog Sidebar"
+msgstr ""
+
+#: functions.php:79
+#: functions.php:89
+#: functions.php:99
+msgid "Appears on blog page sidebar"
+msgstr ""
+
+#: functions.php:88
+msgid "Page Sidebar"
+msgstr ""
+
+#: functions.php:98
+msgid "Third Column Sidebar"
+msgstr ""
+
+#: functions.php:108
+msgid "Footer 1"
+msgstr ""
+
+#: functions.php:118
+msgid "Footer 2"
+msgstr ""
+
+#: functions.php:128
+msgid "Footer 3"
+msgstr ""
+
+#: functions.php:138
+msgid "Footer 4"
+msgstr ""
+
+#: functions.php:109
+#: functions.php:119
+#: functions.php:129
+#: functions.php:139
+msgid "Appears on footer"
+msgstr ""
+
+#: header.php:23
+msgid "Menu"
+msgstr ""
+
+#: image.php:35
+#: image.php:69
+#: image.php:104
+#: image.php:139
+#: image.php:175
+#: image.php:211
+#: page.php:21
+#: single.php:34
+#: single.php:82
+#: single.php:132
+#: single.php:182
+#: single.php:232
+#: single.php:282
+msgid "Pages:"
+msgstr ""
+
+#: image.php:40
+#: image.php:74
+#: image.php:109
+#: image.php:144
+#: image.php:180
+#: image.php:216
+msgid "Edit"
+msgstr ""
+
+#: archive.php:37
+#: archive.php:67
+#: archive.php:97
+#: archive.php:127
+#: archive.php:158
+#: archive.php:189
+#: index.php:42
+#: index.php:72
+#: index.php:102
+#: index.php:132
+#: index.php:163
+#: index.php:194
+#: search.php:36
+#: search.php:66
+#: search.php:96
+#: search.php:126
+#: search.php:157
+#: search.php:188
+#: single.php:57
+#: single.php:104
+#: single.php:154
+#: single.php:204
+#: single.php:254
+#: single.php:304
+msgid "Previous page"
+msgstr ""
+
+#: archive.php:38
+#: archive.php:68
+#: archive.php:98
+#: archive.php:128
+#: archive.php:159
+#: archive.php:190
+#: index.php:43
+#: index.php:73
+#: index.php:103
+#: index.php:133
+#: index.php:134
+#: index.php:195
+#: search.php:37
+#: search.php:67
+#: search.php:97
+#: search.php:127
+#: search.php:158
+#: search.php:189
+#: single.php:53
+#: single.php:101
+#: single.php:151
+#: single.php:201
+#: single.php:251
+#: single.php:301
+msgid "Next page"
+msgstr ""
+
+#: archive.php:39
+#: archive.php:69
+#: archive.php:99
+#: archive.php:129
+#: archive.php:160
+#: archive.php:191
+#: index.php:44
+#: index.php:74
+#: index.php:104
+#: index.php:134
+#: index.php:135
+#: index.php:196
+#: search.php:38
+#: search.php:68
+#: search.php:98
+#: search.php:128
+#: search.php:159
+#: search.php:190
+#: single.php:38
+#: single.php:86
+#: single.php:136
+#: single.php:186
+#: single.php:236
+#: single.php:286
+msgid "page"
+msgstr ""
+
+#: no-results.php:12
+msgid "Nothing Found"
+msgstr ""
+
+#: no-results.php:17
+#, php-format
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: no-results.php:19
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr ""
+
+#: searchform.php:10
+#: searchform.php:12
+msgid "Search"
+msgstr ""
+
+#: sidebar.php:12
+msgid "Archives"
+msgstr ""
+
+#: sidebar.php:18
+msgid "Meta"
+msgstr ""
+
+#: single.php:54
+#: single.php:102
+#: single.php:152
+#: single.php:202
+#: single.php:252
+#: single.php:302
+msgid "Next post:"
+msgstr ""
+
+#: single.php:57
+#: single.php:105
+#: single.php:155
+#: single.php:205
+#: single.php:255
+#: single.php:305
+msgid "Previous post:"
+msgstr ""
+
+#: inc/customizer.php:20
+msgid "Theme Settings"
+msgstr ""
+
+#: inc/customizer.php:21
+msgid "Description of what this panel does."
+msgstr ""
+
+#: inc/customizer.php:26
+msgid "Theme Layout Settings"
+msgstr ""
+
+#: inc/customizer.php:44
+msgid "Left Sidebar"
+msgstr ""
+
+#: inc/customizer.php:45
+msgid "Right Sidebar"
+msgstr ""
+
+#: inc/customizer.php:46
+msgid "One Column"
+msgstr ""
+
+#: inc/customizer.php:47
+msgid "Three Columns"
+msgstr ""
+
+#: inc/customizer.php:48
+msgid "Four Columns"
+msgstr ""
+
+#: inc/customizer.php:49
+msgid "Grid Layout"
+msgstr ""
+
+#: inc/customizer.php:112
+msgid "Slider Settings."
+msgstr ""
+
+#: inc/customizer.php:126
+msgid "Select Slide Image Page"
+msgstr ""
+
+#: inc/customizer.php:56
+msgid "Social Icon Section"
+msgstr ""
+
+#: inc/customizer.php:57
+msgid "Add Header Content here"
+msgstr ""
+
+#: inc/customizer.php:68
+msgid "Add Youtube link"
+msgstr ""
+
+#: inc/customizer.php:80
+msgid "Add Facebook link"
+msgstr ""
+
+#: inc/customizer.php:92
+msgid "Add Twitter link"
+msgstr ""
+
+#: inc/customizer.php:104
+msgid "Add RSS link"
+msgstr ""
+
+#: inc/customizer.php:135
+msgid "Mens Products"
+msgstr ""
+
+#: inc/customizer.php:136
+msgid "This section will appear below the slider."
+msgstr ""
+
+#: inc/customizer.php:146
+msgid "Section Title"
+msgstr ""
+
+#: inc/customizer.php:159
+msgid "Select Category Page"
+msgstr ""
+
+#: inc/customizer.php:172
+msgid "Select Product Page"
+msgstr ""
+
+#: inc/customizer.php:181
+msgid "Copyright"
+msgstr ""
+
+#: inc/customizer.php:193
+msgid "Copyright Text"
+msgstr ""
+
+#: inc/customizer.php:276
+msgid "TC E-Commerce Shop"
+msgstr ""
+
+#: inc/customizer.php:277
+msgid "Go Pro"
+msgstr ""
+
+#: page-template/custom-home-page.php:79
+msgid "Men Products"
+msgstr ""
+
+#: page-template/custom-home-page.php:105
+msgid "VIEW ALL"
+msgstr ""
+
+#: page-template/custom-home-page.php:59
+msgid "Learn More"
+msgstr ""

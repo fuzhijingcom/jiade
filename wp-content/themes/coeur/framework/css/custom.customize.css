@@ -1,0 +1,75 @@
+.btn {border: medium none; white-space: nowrap; padding: 15px 20px; line-height: 16px; border-radius: 3px; height: auto; display: inline-block; margin-bottom: 0px; font-weight: 600; text-align: center; vertical-align: middle; font-size: 16px; -moz-user-select: none; }
+
+.btn-donate {background: #e91e63; border-color: #e91e63; color: #FFF; width: 84%; transition: box-shadow .2s cubic-bezier(.4,0,1,1),background-color .2s cubic-bezier(.4,0,.2,1),color .2s cubic-bezier(.4,0,.2,1); }
+
+.btn-donate:hover, .btn-donate:focus, .btn-donate:active {color: #FFF; }
+
+.btn-donate:hover { box-shadow: 0 5px 11px 0 rgba(0,0,0,0.18),0 4px 15px 0 rgba(0,0,0,0.15); }
+
+#customize-control-coeur_donate_option {display: none !important; }
+
+#accordion-section-coeur_donate > .accordion-section-title{background: #F9F9F9 !important; border-left: 3px solid #00C9BF; }
+
+.wp-full-overlay.collapsed, .wp-full-overlay.expanded .wp-full-overlay-sidebar {margin-left: 0px !important; box-shadow: 0px 3px 3px #E1DEDE; }
+
+#customize-controls img {max-width: 100%; width: auto; height: auto; } 
+
+#customize-info {display: none; }
+
+.control-section-themes .accordion-section-title {margin: 0 0; }
+
+#customize-header-actions {border-bottom: 0px none; box-shadow: 0px 0px 3px rgb(225, 222, 222); background: rgb(255, 255, 255) !important; }
+
+.control-panel-back, .control-panel-back:focus, .control-panel-back:hover, .customize-controls-close:focus, .customize-controls-close:hover, .customize-controls-preview-toggle:focus, .customize-controls-preview-toggle:hover, .customize-overlay-close:focus, .customize-overlay-close:hover {color: #000; outline: 0px none; box-shadow: none; background: rgb(255, 255, 255) !important; border-color: rgb(255, 255, 255); }
+
+.customize-controls-close, .customize-overlay-close {background: #FFF; border-width: 0 0 0 0; }
+
+.customize-panel-back, .customize-section-back {border-right: 1px solid #ECECEC; }
+
+.customize-section-title {border-bottom: 1px solid #ECECEC; }
+
+.control-section.control-panel > .accordion-section-title::after {background: #FFF; border-left: 0; } 
+
+.control-section.control-panel > .accordion-section-title::after:hover {background: #FFF; border-left: 0; }
+
+#customize-theme-controls .accordion-section-title {color: #555; background-color: #FFF; border-bottom: 1px solid #EFEFEF; }
+
+.wp-full-overlay-sidebar {background: #FFF; }
+
+.customize-themes-panel.control-panel-content {background: #FFF; }
+
+.customize-controls-preview-toggle {background: #FFF; border-right: 0; }
+
+#customize-info .accordion-section-title:focus, #customize-info .accordion-section-title:hover, #customize-info.open .accordion-section-title, #customize-theme-controls .control-section .accordion-section-title:focus, #customize-theme-controls .control-section .accordion-section-title:hover, #customize-theme-controls .control-section.open .accordion-section-title, #customize-theme-controls .control-section:hover > .accordion-section-title {background: #F9F9F9; }
+
+.form-wrap p, p.description, p.help, span.description {font-style: normal; font-weight: 300; margin-bottom: 15px; font-size: 14px; }
+
+#customize-theme-controls .accordion-section-content {color: #222; }
+
+.customize-control-title {font-weight: 500; font-size: 16px; margin-bottom: 25px; margin-top: 10px; }
+
+.customize-control-radio .customize-control-title {margin-bottom: 15px; }
+
+.customize-control {width: 100%; float: left; clear: both; border-bottom: 1px solid #ECECEC; padding-bottom: 15px; margin-bottom: 15px !important; }
+
+.accordion-section-content > .customize-control:last-child {border-bottom: 0; padding-bottom: 0; }
+
+.customize-control select {padding: 12px; border-radius: 3px; width: 100%; height: auto; }
+
+.customize-control-checkbox label, .customize-control-color .color-picker, .customize-control-upload div {font-size: 15px; }
+
+#customize-theme-controls .control-section.open:last-of-type, #customize-theme-controls .control-section:last-of-type > .accordion-section-title {border-bottom-color: #EFEFEF; }
+
+input.disabled, input:disabled, select.disabled, select:disabled, textarea.disabled, textarea:disabled {cursor: not-allowed; box-shadow: none; opacity: 0.65; }
+
+#customize-controls .description {margin-top: 10px; }
+
+.customize-control input[type="email"], .customize-control input[type="number"], .customize-control input[type="password"], .customize-control input[type="search"], .customize-control input[type="tel"], .customize-control input[type="text"], .customize-control input[type="url"] {border-radius: 3px; padding: 6px 8px; margin-bottom: 5px; }
+
+#customize-controls .customize-info { margin-bottom: 0; }
+
+.newFeature {background: #0085BA; color: #FFF; padding: 4px 8px; border-radius: 3px; position: absolute; z-index: 999; top: 8px; right: 40px; }
+
+.customize-control > .newFeature {top: 15px; right: 0px; }
+
+.accordion-section, .customize-control {position: relative; }
