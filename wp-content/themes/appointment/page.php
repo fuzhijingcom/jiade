@@ -3,10 +3,10 @@
         <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
         <title>
-            广州佳德包装设备有限公司-广州自动包装机,广州自动立式包装机,广州自动袋包装机
+            Guangzhou Jia de Packaging Equipment Co., Ltd.-Guangzhou automatic Packaging machine, Guangzhou automatic vertical packaging machine, Guangzhou automatic bag Packaging machine
         </title>
-        <meta name="keywords" content="广州自动包装机,广州自动立式包装机,广州自动袋包装机">
-        <meta name="description" content="公司是一家集科研、开发、生 产、销售和技术服务为一体的包装公司。我公司生产的自动化包装机械广泛应用于医药、化工、食品等行业中对液体、颗粒、片类、粉类等物料的包装。 公司发扬“勤奋、团结、诚信、创新”，联系人：匡先生，联系电话：020-36966595">
+        <meta name="keywords" content="Guangzhou Automatic Packaging machine, Guangzhou automatic vertical packaging machine, Guangzhou automatic bag Packaging machine">
+        <meta name="description" content="Company is a collection of scientific research, development, production, sales and technical services as one of the packaging company. My company's automated packaging machinery widely used in medicine, chemicals, food and other industries in the liquid, particle, flake, powder and other materials packaging. The company carry forward diligence, unity, integrity, innovation, contact: Mr Kuang, Tel:020-36966595">
         <link href="/files/css.css" type="text/css" rel="stylesheet">
         <link href="/files/style.css" rel="stylesheet" type="text/css">
         <link href="/files/dynamicimage.css" rel="stylesheet" type="text/css">
@@ -16,10 +16,7 @@
     </head>
     <body>
         <div id="zkeDivMove" style="left:0px;top:0px;width:141px;height:auto;position:absolute;z-index:9999;visibility: visible;">
-            <script language="javascript" src="/files/jqueryMove.js" type="text/javascript">
-</script><script language="javascript" type="text/javascript">
-var domain="zke360.com";var DevelopmentQQ="457683233";var LeftWidth_zke=10;var TopWidth_zke=110;var IsLeftOrRight="Right";var IsTopOrBottom="Top";var downSpeed=500;
-            </script>
+           
             <div id="zkeOnlineService" style="position: absolute; z-index: 9999; top: 110px; left: 1653px;">
                 <div style="position:relative;z-index:9999;top:0px;">
                     <script language="javascript" src="/files/jquery.min.js" type="text/javascript">
@@ -80,12 +77,10 @@ var domain="zke360.com";var DevelopmentQQ="457683233";var LeftWidth_zke=10;var T
                         <div class="topnav">
                             <div id="Top1_ctl00_pl_ViewSortClass2" corpsite_valuenum="299" sortclass1_valuenum="10001" data-type="2">
                                 <div class="top_salutatory">
-                                    欢迎来到广州佳德包装设备有限公司官网！
+Welcome to the official website of guangzhou jiad packaging equipment co., LTD.
                                 </div>
                                 <div style=" float:left; width:300px; height:50px;"></div>
-                                <div class="tel ie6png">
-                                    <img src="/files/jiadepack_20170414170554.png" alt="客服热线" title="客服热线">
-                                </div>
+                               
                             </div><a href="http://www.jiadepack.com/en/index-905388.html">English</a>
                         </div>
                     </div>
@@ -103,10 +98,10 @@ var domain="zke360.com";var DevelopmentQQ="457683233";var LeftWidth_zke=10;var T
                     <div class="banner" style="height:480px">
                         <a class="prev" href="javascript:void(0)" style="display: block; opacity: 0.5;"></a><a class="next" href="javascript:void(0)" style="display: block; opacity: 0.5;"></a>
                         <ul class="pic" style="position: relative; width: 1663px; height: 480px;">
-                            <li style="background: url(&quot;http://file02.up71.com/File/CorpFrontBanner/2017/04/18/jiadepack_20170418152236.jpg&quot;) center center no-repeat; position: absolute; width: 1663px; left: 0px; top: 0px; display: none;">
+                            <li style="background: url(&quot;http://file02.up71.com/File/CorpFrontBanner/2017/04/18/jiadepack_20170418143509.jpg&quot;) center center no-repeat; position: absolute; width: 1663px; left: 0px; top: 0px; display: none;">
                                 <a href="javascript:void(0)"></a>
                             </li>
-                            <li style="background: url(&quot;http://file02.up71.com/File/CorpFrontBanner/2017/04/18/jiadepack_20170418143252.jpg&quot;) center center no-repeat; position: absolute; width: 1663px; left: 0px; top: 0px; display: list-item;">
+                            <li style="background: url(&quot;http://file02.up71.com/File/CorpFrontBanner/2017/04/18/jiadepack_20170418152456.jpg&quot;) center center no-repeat; position: absolute; width: 1663px; left: 0px; top: 0px; display: list-item;">
                                 <a href="javascript:void(0)"></a>
                             </li>
                         </ul>
@@ -121,7 +116,7 @@ var domain="zke360.com";var DevelopmentQQ="457683233";var LeftWidth_zke=10;var T
                         <div class="left wow bounceInLeft">
                             <input type="hidden" id="UserInfo_ID" name="UserInfo_ID" value="905388">
                             <div class="section_title">
-                               产品分类
+                               Product Category
                             </div>
                             <div class="left_nav">
                                 <div id="ctl00_ctl00_pl_ViewSortClass3" corpsite_valuenum="1" sortclass1_valuenum="10004" sortclass2_valuenum="20005" data-type="3">
@@ -137,14 +132,17 @@ var domain="zke360.com";var DevelopmentQQ="457683233";var LeftWidth_zke=10;var T
                                 </div>
                             </div>
                         </div>
+                        
+              
+                        
                         <div class="fgh5"></div>
                         <div class="right wow bounceInRight" data-wow-delay="0.3s">
                             <div class="column_location">
                                 <div class="title">
-                                    推荐产品
+                                    Recommended Products
                                 </div>
                                 <div class="more">
-                                    <a href="http://www.jiadepackaging.com/sample-page/" title="更多">更多</a>
+                                    <a href="http://www.jiadepackaging.com/sample-page/" title="more">more</a>
                                 </div>
                             </div>
                             <div class="product_list">
@@ -178,7 +176,7 @@ var domain="zke360.com";var DevelopmentQQ="457683233";var LeftWidth_zke=10;var T
                             </div>
                             <div class="column_location">
                                 <div class="title">
-                                    热卖产品
+                                    Hot Products
                                 </div>
                                 <div class="more">
                                     <a href="http://www.jiadepackaging.com/sample-page/" title="更多">更多</a>
@@ -226,10 +224,10 @@ var domain="zke360.com";var DevelopmentQQ="457683233";var LeftWidth_zke=10;var T
                             <div class="introduction">
                                 <img src="/files/0_jiadepack_20170425163039.jpg" border="0" width="388" height="178" alt="广州佳德机械">
                                 <div class="title">
-                                    关于佳德
+                                    About Us
                                 </div>
                                 <div class="text2">
-                                    广州佳德包装设备有限公司是一家集科研、开发、生 产、销售和技术服务为一体的包装公司。我公司生产的自动化包装机械广泛应用于医药、化工、食品等行业中对液体、颗粒、片类、粉类等物料的包装。公司发扬“勤奋、团结、诚信、创新”的企业精神，以不断的思考和创新为动力，竭诚为国内外客户提供一流的包装设备和卓越的服务。 佳德随时欢迎国内外客户光临，让我们携手共进、合作共赢，共谋发展，共同筑就美好未来！ 佳德--您最佳的选择，“德”力的. 【<a href="http://www.jiadepackaging.com/sample-page/" title="">查看详细</a>】
+                                    Canton Jia Tak Packaging Equipment Co., Ltd. is a collection of scientific research, development, production, sales and technical services as one of the packaging company. My company's automated packaging machinery widely used in medicine, chemicals, food and other industries in the liquid, particle, flake, powder and other materials packaging. Companies carry forward the "diligence, unity, integrity, innovation" entrepreneurial spirit, with constant thinking and innovation as the driving force, wholeheartedly for domestic and foreign customers with first-class packaging equipment and excellent service. Jia Tak at any time welcome customers at home and abroad, let us join hands, win-win cooperation, and seek common development and build a better future together! Good virtue-your best choice, "de" force. 【<a href="http://www.jiadepackaging.com/sample-page/" title="">View Details</a>】
                                 </div>
                             </div>
                         </div>
@@ -243,10 +241,10 @@ var domain="zke360.com";var DevelopmentQQ="457683233";var LeftWidth_zke=10;var T
                     </div>
                     <div class="box1 links">
                         <div class="title wow bounceInUp" data-wow-duration="1.5s" data-wow-delay="0.3s">
-                            友情链接
+                          Links
                         </div>
                         <div class="linksbox wow bounceInUp" data-wow-duration="2s" data-wow-delay="0.4s">
-                            <span><a href="https://jiadepack.1688.com/" target="_blank" title="广州佳德包装机械阿里巴巴站">广州佳德包装机械阿里巴巴站</a></span>
+                            <span><a href="https://jiadepack.1688.com/" target="_blank" title=" Guangzhou Jia de packaging machinery Alibaba Station"> Guangzhou Jia de packaging machinery Alibaba Station</a></span>
                             <div class="remove"></div>
                         </div>
                     </div>
@@ -260,23 +258,27 @@ var domain="zke360.com";var DevelopmentQQ="457683233";var LeftWidth_zke=10;var T
                     <div id="Bottom1_ctl00_pl_ViewSortClass2" corpsite_valuenum="2991" sortclass1_valuenum="10017" data-type="2">
                         <div class="subnav wow bounceInUp" data-wow-duration="1s" data-wow-delay="0.2s">
                             <div>
-                                <a title="网站首页" href="http://www.jiadepackaging.com/">网站首页</a><a title="产品中心" href="http://www.jiadepackaging.com/sample-page">产品中心</a><a title="新闻资讯" href="http://www.jiadepackaging.com/sample-page/">新闻资讯</a><a title="关于我们" href="http://www.jiadepackaging.com/sample-page/">关于我们</a><a title="联系我们" href="http://www.jiadepackaging.com/sample-page/">联系我们</a>
+                                <a title="homepage" href="http://www.jiadepackaging.com/">homepage</a>
+                                <a title="Product center" href="http://www.jiadepackaging.com/sample-page">Product center</a>
+                                <a title="News information" href="http://www.jiadepackaging.com/sample-page/">News information</a>
+                                <a title="About us" href="http://www.jiadepackaging.com/sample-page/">About us</a>
+                                <a title="Contact us" href="http://www.jiadepackaging.com/sample-page/">Contact us</a>
                             </div>
                         </div>
                         <div class="footer wow bounceInUp" data-wow-duration="2s" data-wow-delay="0.3s">
                             <div class="bottom_logo wow bounceInUp" data-wow-duration="2.5s" data-wow-delay="0.3s">
-                                <img src="/files/0_jiadepack_20170414171010.png" border="0" width="168" height="53" alt="底部Logo">
+                                <img src="/files/logo.png" border="0" width="168" height="53" alt="底部Logo">
                             </div>
                             <div class="copyright wow bounceInUp" data-wow-duration="2.5s" data-wow-delay="0.3s">
                                 <div>
-                                    CopyRight &amp;copy; 2017 www.jiadepack.com All Rights Reserved. 广州佳德包装设备有限公司
+                                    CopyRight &amp;copy; 2017 www.jiadepack.com All Rights Reserved. Guangzhou jiad packaging equipment co. LTD
                                 </div>
                                 <div>
-                                    电话：86-020-36966595 &nbsp;传真：86-020-36966563 &nbsp;地址：中国广东省广州市白云区均禾街罗岗加石路19号B栋
-                                </div><a href="http://www.jiadepackaging.com/wp-login.php" title="网站管理" target="_brank">网站管理</a>
+                                    telephone：86-020-36966595 &nbsp;facsimile：86-020-36966563 &nbsp;Address: building B, no. 19, luogang gai road, junhe street, baiyun district, guangzhou, guangdong, China
+                                </div><a href="http://www.jiadepackaging.com/wp-login.php" title="Site management" target="_brank">Site management</a>
                             </div>
                             <div class="approve wow bounceInUp" data-wow-duration="2.5s" data-wow-delay="0.3s">
-                                <img src="/files/0_jiadepack_20170414171150.png" border="0" width="80" height="80" alt="底部网安">
+                                <img src="/files/0_jiadepack_20170414171150.png" border="0" width="80" height="80" alt="At the bottom of the altar">
                             </div>
                             <div class="remove"></div>
                         </div>
