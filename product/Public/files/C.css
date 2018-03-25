@@ -1,0 +1,35 @@
+.banner { position: relative; z-index:1; width:100%; height:auto; background-color:#ABAAB4; overflow:hidden;min-width:1106px;}
+.banner ul.pic { height:100% !important; width:100% !important; }
+.banner ul.pic li { height:100% !important; width:100% !important; z-index:1; }
+.banner ul.pic li a { display:block; cursor:pointer; height:100% !important; width:100% !important; z-index:1; }
+.banner .hd { width:100%; position: absolute; bottom: 20px; text-align: center; font-size:0; z-index:1; }
+.banner .hd li { margin: 0 5px; background: url(/cn/images/3/icon1.png) no-repeat -4px -30px;_background:#EBEBEB; height: 9px; overflow: hidden; width: 9px; cursor: pointer; display:inline-block; *display:inline;
+zoom:1; }
+.banner .hd .on { background-position: -37px -30px;_background:#D62E37; }
+.banner .prev, .banner .next { width: 40px; height: 40px; background: url(/cn/images/3/icon1.png) no-repeat -213px -50px; position: absolute; top:55%; z-index: 9999; cursor: pointer; text-indent: -9999px; filter:alpha(opacity=80); opacity:0.8; -moz-transition:opacity .4s ease-in;
+-webkit-transition:opacity .2s ease-in;
+-ms-transition:opacity .2s ease-in;
+transition:opacity .2s ease-in;
+-webkit-transition: all 0.2s ease-in-out 0s; -moz-transition: all 0.2s ease-in-out 0s; -o-transition: all 0.2s ease-in-out 0s; transition: all 0.2s ease-in-out 0s; }
+.banner .prev { left: 5%; }
+.banner .next { background-position: -213px -3px; right: 5%; }
+.banner .prev:hover { background-position: -266px -50px; filter:alpha(opacity=80) !important; opacity:0.9 !important; }
+.banner .next:hover { background-position: -266px -3px; filter:alpha(opacity=80) !important; opacity:0.9 !important; }
+/*Ð¡ÂÖ²¥*/ 
+.banner_s { position: relative; z-index:1; width:100%; height:auto; overflow: hidden; background-color:#ABAAB4; overflow:hidden;min-width:1000px;}
+.banner_s ul.pic { height:100% !important; width:100% !important; }
+.banner_s ul.pic li { height:100% !important; width:100% !important; z-index:1; }
+.banner_s ul.pic li a { display:block; cursor:pointer; height:100% !important; width:100% !important; z-index:1; }
+.banner_s .hd { width:100%; position: absolute; bottom: 20px; text-align: center; font-size:0; z-index:1; }
+.banner_s .hd li { margin: 0 5px; background: url(/cn/images/3/icon1.png) no-repeat -4px -30px;_background:#FFF; height: 10px; overflow: hidden; width: 10px; cursor: pointer; display:inline-block; *display:inline;
+zoom:1; }
+.banner_s .hd .on { background-position: -37px -30px;_background:#D72E38;}
+.banner_s .prev, .banner_s .next { width: 40px; height: 40px; background: url(/cn/images/3/icon1.png) no-repeat -213px -50px; position: absolute; top: 60%; z-index: 1; cursor: pointer; text-indent: -9999px; filter:alpha(opacity=80); opacity:0.8; -moz-transition:opacity .4s ease-in;
+-webkit-transition:opacity .2s ease-in;
+-ms-transition:opacity .2s ease-in;
+transition:opacity .2s ease-in;
+-webkit-transition: all 0.2s ease-in-out 0s; -moz-transition: all 0.2s ease-in-out 0s; -o-transition: all 0.2s ease-in-out 0s; transition: all 0.2s ease-in-out 0s; }
+.banner_s .prev { left: 5%; }
+.banner_s .next { background-position: -213px -3px; right: 5%; }
+.banner_s .prev:hover { background-position: -265px -50px; filter:alpha(opacity=80) !important; opacity:0.9 !important; }
+.banner_s .next:hover { background-position: -265px -3px; filter:alpha(opacity=80) !important; opacity:0.9 !important; }

@@ -1,0 +1,8 @@
+﻿.main .left .left_nav ul li{height: auto;width: 200px;}
+.main .left .left_nav ul li span{line-height: 32px;height: 32px;width: 200px;font-size: 14px;border-bottom-width: 1px;border-bottom-style: solid;border-bottom-color: #F3F3F3;display: block;}
+.main .left .left_nav ul li span a{display: block;line-height: 32px;height: 32px;width: 185px;background-image: url(/cn/images/3/03.gif);background-repeat: no-repeat;background-position: 0px center;padding-left: 15px;color: #000000;}
+.main .left .left_nav ul li span a:hover{color: #065ccb;}
+.main .left .left_nav ul li .ejfl{height: auto;width: 200px;}
+.main .left .left_nav ul li .ejfl ul li{height: 24px;width: 200px;line-height: 24px;}
+.main .left .left_nav ul li .ejfl ul li a{display: block;height: 24px;width: 180px;background-image: url(/cn/images/3/04.gif);padding-left: 20px;background-repeat: no-repeat;background-position: right;font-size: 12px;color: #666666;}
+.main .left .left_nav ul li .ejfl ul li a:hover{color: #FFFFFF;text-decoration: none;background-image: url(/cn/images/3/05.gif);}

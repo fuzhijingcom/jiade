@@ -1,0 +1,5 @@
+﻿
+#box {width:1000px; height:255px; position: relative; border:3px solid #fff; border-left:none; -webkit-box-shadow:0 10px 20px #fff; -moz-box-shadow:0 10px 20px #fff; box-shadow: 0 10px 20px #fff;}
+.dtul {position: absolute; left:0px; top:0px; list-style: none;}
+.dtul li{width:107px; height:255px; float:left; border-left:1px solid #fff; cursor: pointer;}
+.active {width:347px; height:255px; background:#ff6600;}
