@@ -19,6 +19,8 @@ class IndexController extends Controller {
 	
 
 	public function xuanze(){
+		header("Content-type:text/html;charset=utf-8");
+
 		$id = I('id');
 		if(!$id){
 			$this->error("ID不存在");
@@ -62,8 +64,8 @@ class IndexController extends Controller {
 
 			$c = count($k);
 
-			if((int)$c!==5){
-				$this->error("只能选4个");
+			if((int)$c!==9){
+				$this->error("只能选8个");
 			}
 
 			for($i=1;$i<$c;$i++){
