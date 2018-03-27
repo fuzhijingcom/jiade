@@ -199,7 +199,7 @@
                 </div>
                 <div class="remove"></div>
                 <div class="homefgh"></div>
-                <div class="about w1000 wow bounceInUp" data-wow-duration="1s" data-wow-delay="0.2s">
+                <!-- <div class="about w1000 wow bounceInUp" data-wow-duration="1s" data-wow-delay="0.2s">
                     <div class="line">
                         <img src="__PUBLIC__/files/13.gif" border="0">
                     </div>
@@ -212,12 +212,12 @@
                                 </div>
                                 <div class="text2">
                                     Canton Jia Tak Packaging Equipment Co., Ltd. is a collection of scientific research, development, production, sales and technical services as one of the packaging company. My company's automated packaging machinery widely used in medicine, chemicals, food and other industries in the liquid, particle, flake, powder and other materials packaging. Companies carry forward the "diligence, unity, integrity, innovation" entrepreneurial spirit, with constant thinking and innovation as the driving force, wholeheartedly for domestic and foreign customers with first-class packaging equipment and excellent service. Jia Tak at any time welcome customers at home and abroad, let us join hands, win-win cooperation, and seek common development and build a better future together! Good virtue-your best choice, "de" force. 
-                                    <!--【<a href="http://www.liandoutrading.com/sample-page/" title="">View Details</a>】  -->
+                                    【<a href="http://www.liandoutrading.com/sample-page/" title="">View Details</a>】 
                                 </div>
                             </div>
                         </div>
                     </div>
-                </div>
+                </div> -->
                 <div class="remove"></div>
                 <div class="homefgh"></div>
                 <div class="about w1000 wow bounceInUp" data-wow-duration="1s" data-wow-delay="0.2s">
@@ -229,7 +229,14 @@
                           Links
                         </div>
                         <div class="linksbox wow bounceInUp" data-wow-duration="2s" data-wow-delay="0.4s">
-                            <span><a href="https://jiadepack.en.alibaba.com/" target="_blank" title=" Guangzhou Jia de packaging machinery Alibaba Station"> Guangzhou Jia de packaging machinery Alibaba Station</a></span>
+                        
+                            <foreach name="link" item="v">
+                                <span>
+                                    <a href="{$v.url}" target="_blank" title="{$v.name}">{$v.name}</a>
+                                </span>
+                            </foreach>
+                           
+
                             <div class="remove"></div>
                         </div>
                     </div>
@@ -256,16 +263,21 @@
                             </div>
                             <div class="copyright wow bounceInUp" data-wow-duration="2.5s" data-wow-delay="0.3s">
                                 <div>
-                                    CopyRight &amp;copy; 2017 www.jiadepack.com All Rights Reserved. Guangzhou jiad packaging equipment co. LTD
+                                    <!-- CopyRight &amp;copy; 2017 www.jiadepack.com All Rights Reserved. Guangzhou jiad packaging equipment co. LTD -->
                                 </div>
                                 <div>
-                                    telephone：86-020-36966595 &nbsp;facsimile：86-020-36966563 &nbsp;Address: building B, no. 19, luogang gai road, junhe street, baiyun district, guangzhou, guangdong, China
+                                    <!-- telephone：86-020-36966595 &nbsp;facsimile：86-020-36966563 &nbsp;Address: building B, no. 19, luogang gai road, junhe street, baiyun district, guangzhou, guangdong, China -->
                                 </div>
                                 <a href="http://www.liandoutrading.com/wp-login.php" title="Site management" target="_brank">Site management</a>
-                            <script type="text/javascript">var cnzz_protocol = (("https:" == document.location.protocol) ? " https://" : " http://");document.write(unescape("%3Cspan id='cnzz_stat_icon_3790269'%3E%3C/span%3E%3Cscript src='" + cnzz_protocol + "s19.cnzz.com/stat.php%3Fid%3D3790269%26show%3Dpic' type='text/javascript'%3E%3C/script%3E"));</script>
+                            <div style="display: none">
+                                <script type="text/javascript">
+                                var cnzz_protocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+                                document.write(unescape("%3Cspan id='cnzz_stat_icon_3790269'%3E%3C/span%3E%3Cscript src='" + cnzz_protocol + "s19.cnzz.com/stat.php%3Fid%3D3790269%26show%3Dpic' type='text/javascript'%3E%3C/script%3E"));
+                                </script>
+                            </div>
                             </div>
                             <div class="approve wow bounceInUp" data-wow-duration="2.5s" data-wow-delay="0.3s">
-                                <img src="__PUBLIC__/files/0_jiadepack_20170414171150.png" border="0" width="80" height="80" alt="At the bottom of the altar">
+                                <!-- <img src="__PUBLIC__/files/0_jiadepack_20170414171150.png" border="0" width="80" height="80" alt="At the bottom of the altar"> -->
                             </div>
                             <div class="remove"></div>
                         </div>

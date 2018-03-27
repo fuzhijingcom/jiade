@@ -2,16 +2,22 @@
 namespace Admin\Controller;
 use Think\Controller;
 class IndexController extends Controller {
-
-	public function index() {
+	/*
+     * 初始化操作
+     */
+    
+    public function _initialize() {
 		header("Content-type:text/html;charset=utf-8");
-
-
+		
 		$user_login = session('user_login');
 		if(!$user_login){
 			$this->redirect('admin/login/index');
 			exit;
 		}
+		
+	}
+
+	public function index() {
 		
 		
 		$this->display();
@@ -64,8 +70,8 @@ class IndexController extends Controller {
 
 			$c = count($k);
 
-			if((int)$c!==9){
-				$this->error("只能选8个");
+			if((int)$c!==4){
+				$this->error("只能选4个");
 			}
 
 			for($i=1;$i<$c;$i++){

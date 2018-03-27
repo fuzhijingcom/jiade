@@ -26,7 +26,9 @@ class IndexController extends Controller {
         $Hot = M('posts')->where($conHot)->where(array('post_status'=>'publish'))->field('id,post_name,post_title,guid')->select();
         $this->assign('Hot',$Hot);
 
-        
+        $link = M("link")->select();
+        $this->assign('link',$link);
+
         $this->display();
     }
 }

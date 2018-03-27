@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="zh-cn">
+
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1,user-scalable=0">
+    <title>增加友情链接</title>
+    <link rel="stylesheet" href="//cdn.c3w.com.cn/css/weui.min.css" />
+    <script src="//cdn.c3w.com.cn/js/jquery-1.10.2.min.js"></script>
+    </style>
+</head>
+
+<body>
+
+
+    <div onclick="javascript:alert('暂时不能删除');">
+        <div class="weui-cells__title">友情链接列表</div>
+
+        <div class="weui-cells">
+
+            <foreach name="link" item="v">
+                <div class="weui-cell">
+                    <div class="weui-cell__bd">
+                        <p>{$v.name}</p>
+                    </div>
+                    <div class="weui-cell__ft">{$v.url}</div>
+                </div>
+
+            </foreach>
+
+        </div>
+    </div>
+
+
+    <div class="weui-cells__title">增加链接列表</div>
+    <form id="form" method="POST" action="{:U('link_add')}">
+
+        <div class="weui-cell">
+            <div class="weui-cell__hd">
+                <label class="weui-label">名称</label>
+            </div>
+            <div class="weui-cell__bd">
+                <input class="weui-input" type="text" name="name" placeholder="请输入链接名称" />
+            </div>
+        </div>
+
+        <div class="weui-cell">
+            <div class="weui-cell__hd">
+                <label class="weui-label">链接</label>
+            </div>
+            <div class="weui-cell__bd">
+                <input class="weui-input" type="text" name="url" placeholder="请输入URL链接" />
+            </div>
+        </div>
+
+        <div class="weui-btn-area">
+            <a class="weui-btn weui-btn_primary" href="javascript:submit();">增加</a>
+        </div>
+
+    </form>
+
+
+
+
+    <script>
+        function submit() {
+
+            var form = document.getElementById('form');
+            //再次修改input内容
+
+            form.submit();
+        }
+    </script>
+</body>
+
+</html>
